@@ -1,2 +1,1 @@
-## This is test repository
-
+# This is Git, GitHub practice repository
