@@ -1,1 +1,1 @@
-console.log("This is first commit");
+console.log("Hello, world!");
